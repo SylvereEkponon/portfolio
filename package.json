@@ -1,13 +1,21 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "Responsive portfolio website",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SylvereEkponon/portfolio.git"
+  },
   "author": "Sylvere Ekponon",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SylvereEkponon/portfolio/issues"
+  },
+  "homepage": "https://github.com/SylvereEkponon/portfolio#readme",
   "dependencies": {
     "node-sass": "^4.9.3"
   }
